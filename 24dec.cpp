@@ -1,4 +1,4 @@
-#Buy Maximum Stocks if i stocks can be bought on i-th day-24 december(medium)
+//Buy Maximum Stocks if i stocks can be bought on i-th day-24 december(medium)
 
 class Solution {
 public:
