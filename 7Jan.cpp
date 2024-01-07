@@ -1,4 +1,8 @@
-//Binary Search  concept used krenge..
+ //Q."Split Array Largest Sum"
+// Given an array arr[] of N elements and a number K., split the given array into K subarrays such that the maximum subarray sum achievable out of K subarrays formed is minimum possible.
+//     Find that possible subarray sum..
+
+        //Binary Search  concept used krenge..
 // Arranging and Evaluating Possibilities: Pehle, aapko decide karna hoga ki aapke paas kitne subarrays ho sakte hain aur kaise aap inhe ek se zyada subarrays mein divide kar sakte hain.
 // Aapka lakshya hoga ek aise subarray sum ka minimum nikalna jo division se utpann hone wale sabse bade subarray sum ko kam kar sake.
 
